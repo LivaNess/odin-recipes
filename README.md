@@ -6,3 +6,5 @@ Deberia contener elementos de lista, imagenes, links, encabezados y parrafos.
 Actualizare más adelante cuando haya novedades.
 
 Anadida la receta de Lasagna puedo decir que me voy familiarizando con el lenguaje HTML, gracias a su simplesa la curva de aprendizaje me resulta sencilla.
+
+Bueno, pagina terminada, por ahora yo creo.
